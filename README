@@ -4,6 +4,9 @@ the colored circles represent the electrodes which extract EEG data from the bra
 the extracted data of each electrode is splitted into 4 frequency bands (gamma, lo-beat, hi-beta, alpha) which have a distinct
 sound each. think of your cursor as the area within the brain with the overall highest brain activity at the moment.
 
+// BUGS
+- volume of elctrode decreases when cursor gets near it, should be increasing
+
 // TODO
 - panning
 - logarithmic amplitude in relation to distance of cursor
