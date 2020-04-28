@@ -15,7 +15,7 @@ let colors = [
                 [0, 255, 255],
                 [255, 0, 255]
               ];
-let freqs = [1220, 0, 0, 0, 0, 0];
+let freqs = [261.626, 258, 391.995, 393, 587.330, 590];
 
 let elektroden = [];
 let diameter = 20;
