@@ -5,7 +5,7 @@ the extracted data of each electrode is splitted into 4 frequency bands (gamma, 
 sound each. think of your cursor as the area within the brain with the overall highest brain activity at the moment.
 
 // BUGS
-- volume of elctrode decreases when cursor gets near it, should be increasing
+- volume of elctrode decreases when cursor gets near it, should be increasing (FIXED)
 
 // TODO
 - panning
